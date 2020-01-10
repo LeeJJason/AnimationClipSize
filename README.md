@@ -34,5 +34,5 @@
 * 动画文件中旋转（Rotation）的保存格式为四元数。
 
 ## 参考文章
-[DY_M的Unity学习日记 1 ——AnimationClip的读取与代码生成](https://www.jianshu.com/p/80b2bc98ac5d)
-[Unity动画文件优化探究](http://www.codershu.com/2017/06/14/UnityOptimizeAnimationClip/)
+* [DY_M的Unity学习日记 1 ——AnimationClip的读取与代码生成](https://www.jianshu.com/p/80b2bc98ac5d)  
+* [Unity动画文件优化探究](http://www.codershu.com/2017/06/14/UnityOptimizeAnimationClip/)
