@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 232673935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2afbff98d0ada66dc2e337a67ad21f54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/float/FeelScared.anim
+Dependencies: []

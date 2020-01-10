@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2403942448
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08ef664974880477a899d95dcde40ba2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/clips/hitdown_02_up.anim
+Dependencies: []

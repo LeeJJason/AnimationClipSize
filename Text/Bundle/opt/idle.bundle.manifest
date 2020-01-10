@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2202296607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d15c3cb60268cfeee82bd7dd065dbe3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/opt/idle.anim
+Dependencies: []

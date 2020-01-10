@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 60247663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96d0d6d654e41575603c79da0754758d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/scale/dead_01.anim
+Dependencies: []

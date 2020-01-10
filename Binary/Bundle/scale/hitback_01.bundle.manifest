@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2302511180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf8f9e968c1c7268b741556cb2aa98bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/scale/hitback_01.anim
+Dependencies: []

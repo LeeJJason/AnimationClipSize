@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2136637655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7604ee3f4e72046fcb5f883ed913814b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/clips/idle_03.anim
+Dependencies: []

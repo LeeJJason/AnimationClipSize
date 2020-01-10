@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 451176382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c103926ad5e394bb0b5bf28f15d89ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/scale/enter.anim
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 182868573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20f578c45b34e4c394629249a8c368fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/float/walk.anim
+Dependencies: []

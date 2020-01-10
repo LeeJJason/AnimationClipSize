@@ -1,0 +1,413 @@
+ManifestFileVersion: 0
+CRC: 2466266626
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: clips/dead_01.bundle
+      Dependencies: {}
+    Info_1:
+      Name: clips/dodge.bundle
+      Dependencies: {}
+    Info_2:
+      Name: clips/enter.bundle
+      Dependencies: {}
+    Info_3:
+      Name: clips/feelscared.bundle
+      Dependencies: {}
+    Info_4:
+      Name: clips/hitback_01.bundle
+      Dependencies: {}
+    Info_5:
+      Name: clips/hitdown_01_down.bundle
+      Dependencies: {}
+    Info_6:
+      Name: clips/hitdown_01_up.bundle
+      Dependencies: {}
+    Info_7:
+      Name: clips/hitdown_02_down.bundle
+      Dependencies: {}
+    Info_8:
+      Name: clips/hitdown_02_up.bundle
+      Dependencies: {}
+    Info_9:
+      Name: clips/hitturnback_01.bundle
+      Dependencies: {}
+    Info_10:
+      Name: clips/idle.bundle
+      Dependencies: {}
+    Info_11:
+      Name: clips/idle_02.bundle
+      Dependencies: {}
+    Info_12:
+      Name: clips/idle_03.bundle
+      Dependencies: {}
+    Info_13:
+      Name: clips/run.bundle
+      Dependencies: {}
+    Info_14:
+      Name: clips/run_02.bundle
+      Dependencies: {}
+    Info_15:
+      Name: clips/show_01.bundle
+      Dependencies: {}
+    Info_16:
+      Name: clips/skill01_03.bundle
+      Dependencies: {}
+    Info_17:
+      Name: clips/skill02_03.bundle
+      Dependencies: {}
+    Info_18:
+      Name: clips/skill04_03.bundle
+      Dependencies: {}
+    Info_19:
+      Name: clips/skill05_03.bundle
+      Dependencies: {}
+    Info_20:
+      Name: clips/skill05_04.bundle
+      Dependencies: {}
+    Info_21:
+      Name: clips/skill07_07.bundle
+      Dependencies: {}
+    Info_22:
+      Name: clips/skill09_03.bundle
+      Dependencies: {}
+    Info_23:
+      Name: clips/skill09_05.bundle
+      Dependencies: {}
+    Info_24:
+      Name: clips/skill14_04.bundle
+      Dependencies: {}
+    Info_25:
+      Name: clips/skill15_04.bundle
+      Dependencies: {}
+    Info_26:
+      Name: clips/skill17_04.bundle
+      Dependencies: {}
+    Info_27:
+      Name: clips/skill18_04.bundle
+      Dependencies: {}
+    Info_28:
+      Name: clips/skill21_04.bundle
+      Dependencies: {}
+    Info_29:
+      Name: clips/skill22_04.bundle
+      Dependencies: {}
+    Info_30:
+      Name: clips/skill25_03.bundle
+      Dependencies: {}
+    Info_31:
+      Name: clips/walk.bundle
+      Dependencies: {}
+    Info_32:
+      Name: model/boss_001.bundle
+      Dependencies:
+        Dependency_0: model/materials/boss_001_entery.bundle
+    Info_33:
+      Name: model/mkm_001_weapons_shizhuang_r.bundle
+      Dependencies:
+        Dependency_0: model/materials/tex_nvqiangshou_shizhuang_wuqi_diff.bundle
+    Info_34:
+      Name: model/skin.bundle
+      Dependencies:
+        Dependency_0: model/materials/tex_mkm_001_body_d.bundle
+        Dependency_1: model/materials/tex_mkm_001_head_d.bundle
+    Info_35:
+      Name: model/materials/boss_001_entery.bundle
+      Dependencies: {}
+    Info_36:
+      Name: model/materials/tex_mkm_001_body_d.bundle
+      Dependencies: {}
+    Info_37:
+      Name: model/materials/tex_mkm_001_head_d.bundle
+      Dependencies: {}
+    Info_38:
+      Name: model/materials/tex_nvqiangshou_shizhuang_wuqi_diff.bundle
+      Dependencies: {}
+    Info_39:
+      Name: float/dead_01.bundle
+      Dependencies: {}
+    Info_40:
+      Name: float/dodge.bundle
+      Dependencies: {}
+    Info_41:
+      Name: float/enter.bundle
+      Dependencies: {}
+    Info_42:
+      Name: float/feelscared.bundle
+      Dependencies: {}
+    Info_43:
+      Name: float/hitback_01.bundle
+      Dependencies: {}
+    Info_44:
+      Name: float/hitdown_01_down.bundle
+      Dependencies: {}
+    Info_45:
+      Name: float/hitdown_01_up.bundle
+      Dependencies: {}
+    Info_46:
+      Name: float/hitdown_02_down.bundle
+      Dependencies: {}
+    Info_47:
+      Name: float/hitdown_02_up.bundle
+      Dependencies: {}
+    Info_48:
+      Name: float/hitturnback_01.bundle
+      Dependencies: {}
+    Info_49:
+      Name: float/idle.bundle
+      Dependencies: {}
+    Info_50:
+      Name: float/idle_02.bundle
+      Dependencies: {}
+    Info_51:
+      Name: float/idle_03.bundle
+      Dependencies: {}
+    Info_52:
+      Name: float/run.bundle
+      Dependencies: {}
+    Info_53:
+      Name: float/run_02.bundle
+      Dependencies: {}
+    Info_54:
+      Name: float/show_01.bundle
+      Dependencies: {}
+    Info_55:
+      Name: float/skill01_03.bundle
+      Dependencies: {}
+    Info_56:
+      Name: float/skill02_03.bundle
+      Dependencies: {}
+    Info_57:
+      Name: float/skill04_03.bundle
+      Dependencies: {}
+    Info_58:
+      Name: float/skill05_03.bundle
+      Dependencies: {}
+    Info_59:
+      Name: float/skill05_04.bundle
+      Dependencies: {}
+    Info_60:
+      Name: float/skill07_07.bundle
+      Dependencies: {}
+    Info_61:
+      Name: float/skill09_03.bundle
+      Dependencies: {}
+    Info_62:
+      Name: float/skill09_05.bundle
+      Dependencies: {}
+    Info_63:
+      Name: float/skill14_04.bundle
+      Dependencies: {}
+    Info_64:
+      Name: float/skill15_04.bundle
+      Dependencies: {}
+    Info_65:
+      Name: float/skill17_04.bundle
+      Dependencies: {}
+    Info_66:
+      Name: float/skill18_04.bundle
+      Dependencies: {}
+    Info_67:
+      Name: float/skill21_04.bundle
+      Dependencies: {}
+    Info_68:
+      Name: float/skill22_04.bundle
+      Dependencies: {}
+    Info_69:
+      Name: float/skill25_03.bundle
+      Dependencies: {}
+    Info_70:
+      Name: float/walk.bundle
+      Dependencies: {}
+    Info_71:
+      Name: opt/dead_01.bundle
+      Dependencies: {}
+    Info_72:
+      Name: opt/dodge.bundle
+      Dependencies: {}
+    Info_73:
+      Name: opt/enter.bundle
+      Dependencies: {}
+    Info_74:
+      Name: opt/feelscared.bundle
+      Dependencies: {}
+    Info_75:
+      Name: opt/hitback_01.bundle
+      Dependencies: {}
+    Info_76:
+      Name: opt/hitdown_01_down.bundle
+      Dependencies: {}
+    Info_77:
+      Name: opt/hitdown_01_up.bundle
+      Dependencies: {}
+    Info_78:
+      Name: opt/hitdown_02_down.bundle
+      Dependencies: {}
+    Info_79:
+      Name: opt/hitdown_02_up.bundle
+      Dependencies: {}
+    Info_80:
+      Name: opt/hitturnback_01.bundle
+      Dependencies: {}
+    Info_81:
+      Name: opt/idle.bundle
+      Dependencies: {}
+    Info_82:
+      Name: opt/idle_02.bundle
+      Dependencies: {}
+    Info_83:
+      Name: opt/idle_03.bundle
+      Dependencies: {}
+    Info_84:
+      Name: opt/run.bundle
+      Dependencies: {}
+    Info_85:
+      Name: opt/run_02.bundle
+      Dependencies: {}
+    Info_86:
+      Name: opt/show_01.bundle
+      Dependencies: {}
+    Info_87:
+      Name: opt/skill01_03.bundle
+      Dependencies: {}
+    Info_88:
+      Name: opt/skill02_03.bundle
+      Dependencies: {}
+    Info_89:
+      Name: opt/skill04_03.bundle
+      Dependencies: {}
+    Info_90:
+      Name: opt/skill05_03.bundle
+      Dependencies: {}
+    Info_91:
+      Name: opt/skill05_04.bundle
+      Dependencies: {}
+    Info_92:
+      Name: opt/skill07_07.bundle
+      Dependencies: {}
+    Info_93:
+      Name: opt/skill09_03.bundle
+      Dependencies: {}
+    Info_94:
+      Name: opt/skill09_05.bundle
+      Dependencies: {}
+    Info_95:
+      Name: opt/skill14_04.bundle
+      Dependencies: {}
+    Info_96:
+      Name: opt/skill15_04.bundle
+      Dependencies: {}
+    Info_97:
+      Name: opt/skill17_04.bundle
+      Dependencies: {}
+    Info_98:
+      Name: opt/skill18_04.bundle
+      Dependencies: {}
+    Info_99:
+      Name: opt/skill21_04.bundle
+      Dependencies: {}
+    Info_100:
+      Name: opt/skill22_04.bundle
+      Dependencies: {}
+    Info_101:
+      Name: opt/skill25_03.bundle
+      Dependencies: {}
+    Info_102:
+      Name: opt/walk.bundle
+      Dependencies: {}
+    Info_103:
+      Name: scale/dead_01.bundle
+      Dependencies: {}
+    Info_104:
+      Name: scale/dodge.bundle
+      Dependencies: {}
+    Info_105:
+      Name: scale/enter.bundle
+      Dependencies: {}
+    Info_106:
+      Name: scale/feelscared.bundle
+      Dependencies: {}
+    Info_107:
+      Name: scale/hitback_01.bundle
+      Dependencies: {}
+    Info_108:
+      Name: scale/hitdown_01_down.bundle
+      Dependencies: {}
+    Info_109:
+      Name: scale/hitdown_01_up.bundle
+      Dependencies: {}
+    Info_110:
+      Name: scale/hitdown_02_down.bundle
+      Dependencies: {}
+    Info_111:
+      Name: scale/hitdown_02_up.bundle
+      Dependencies: {}
+    Info_112:
+      Name: scale/hitturnback_01.bundle
+      Dependencies: {}
+    Info_113:
+      Name: scale/idle.bundle
+      Dependencies: {}
+    Info_114:
+      Name: scale/idle_02.bundle
+      Dependencies: {}
+    Info_115:
+      Name: scale/idle_03.bundle
+      Dependencies: {}
+    Info_116:
+      Name: scale/run.bundle
+      Dependencies: {}
+    Info_117:
+      Name: scale/run_02.bundle
+      Dependencies: {}
+    Info_118:
+      Name: scale/show_01.bundle
+      Dependencies: {}
+    Info_119:
+      Name: scale/skill01_03.bundle
+      Dependencies: {}
+    Info_120:
+      Name: scale/skill02_03.bundle
+      Dependencies: {}
+    Info_121:
+      Name: scale/skill04_03.bundle
+      Dependencies: {}
+    Info_122:
+      Name: scale/skill05_03.bundle
+      Dependencies: {}
+    Info_123:
+      Name: scale/skill05_04.bundle
+      Dependencies: {}
+    Info_124:
+      Name: scale/skill07_07.bundle
+      Dependencies: {}
+    Info_125:
+      Name: scale/skill09_03.bundle
+      Dependencies: {}
+    Info_126:
+      Name: scale/skill09_05.bundle
+      Dependencies: {}
+    Info_127:
+      Name: scale/skill14_04.bundle
+      Dependencies: {}
+    Info_128:
+      Name: scale/skill15_04.bundle
+      Dependencies: {}
+    Info_129:
+      Name: scale/skill17_04.bundle
+      Dependencies: {}
+    Info_130:
+      Name: scale/skill18_04.bundle
+      Dependencies: {}
+    Info_131:
+      Name: scale/skill21_04.bundle
+      Dependencies: {}
+    Info_132:
+      Name: scale/skill22_04.bundle
+      Dependencies: {}
+    Info_133:
+      Name: scale/skill25_03.bundle
+      Dependencies: {}
+    Info_134:
+      Name: scale/walk.bundle
+      Dependencies: {}

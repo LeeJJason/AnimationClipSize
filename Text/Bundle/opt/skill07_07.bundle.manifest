@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1781397949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 625d487cb350205f24875959c44f821f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/opt/skill07_07.anim
+Dependencies: []

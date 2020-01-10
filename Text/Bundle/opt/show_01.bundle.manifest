@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2462095710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a65ad131181a6e800aa3e0b6d3c8542
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/opt/show_01.anim
+Dependencies: []

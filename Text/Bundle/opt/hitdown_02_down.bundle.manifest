@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 334948661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6f164a0a9d657c2952e25c717e8deb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/opt/hitdown_02_down.anim
+Dependencies: []

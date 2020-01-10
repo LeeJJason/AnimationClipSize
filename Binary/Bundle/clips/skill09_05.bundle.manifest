@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3687340614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14dc27a02988c29cfa39030478ea916c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/clips/skill09_05.anim
+Dependencies: []

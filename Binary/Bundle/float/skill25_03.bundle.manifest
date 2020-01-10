@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2396244182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbf52f946d131f7ddd5262633f17b7db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/float/skill25_03.anim
+Dependencies: []

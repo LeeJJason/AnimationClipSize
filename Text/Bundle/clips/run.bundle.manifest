@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3961857308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06e2fe72b7ae9486a6f92f81043ec32f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/clips/run.anim
+Dependencies: []

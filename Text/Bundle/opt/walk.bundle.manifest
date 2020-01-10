@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3033806179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5aa278ab9c0bb6a9547942c08f84df8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/opt/walk.anim
+Dependencies: []

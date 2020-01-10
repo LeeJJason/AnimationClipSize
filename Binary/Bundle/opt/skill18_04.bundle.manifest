@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 231431285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b4da2b7c899998aea0f7d761475c6e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/opt/skill18_04.anim
+Dependencies: []

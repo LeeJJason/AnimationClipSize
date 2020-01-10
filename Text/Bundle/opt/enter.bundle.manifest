@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 330747583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b8479e0c8379dab39d85d9c2e0e1c33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/opt/enter.anim
+Dependencies: []

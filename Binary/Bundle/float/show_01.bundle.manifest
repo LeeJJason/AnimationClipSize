@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2655338765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 287a7ef0979b887eab92e52950204e0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/float/show_01.anim
+Dependencies: []

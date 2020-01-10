@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2910003635
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1619a71f870db2a0bc225dad3b783eea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14bc5f71bda60a0c1eb473bfd9b063f1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset/clips/walk.anim
+Dependencies: []
